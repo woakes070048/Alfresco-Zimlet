@@ -16,7 +16,7 @@ Supported Versions
 ------------------
 - Alfresco 5.x. 
 - Zimbra 8.x.
-- 
+
 Sponsor
 ------------------
 [SIFAST][2] .
